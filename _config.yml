@@ -1,0 +1,20 @@
+# Site settings
+title: 测控二班
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+   这里是2015级测控二班
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  300kph
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: 测控二班
+
+gems: [jekyll-paginate]
+
+hightlighter: pygments

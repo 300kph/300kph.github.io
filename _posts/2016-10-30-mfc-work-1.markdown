@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "可视化 10月30 24：00前上传至moodle！"
+categories: 可视化
+tags: 可视化 作业
+---
+
+* 请同学们将作业`6.3.2`在10月30 24：00上传至[*moodle*](http://moodle.cugb.edu.cn/){:target="_blank"}
