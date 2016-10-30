@@ -2,7 +2,7 @@
 title: 测控二班
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-   这里是2015级测控二班
+   这里是2015级测控二班,点击下面的按钮，了解这个主页。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
