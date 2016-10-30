@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ham2
+title: Building...
 permalink: /ham2/
 ---
 ### Thank you Jekyll!
