@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测控二班</title>
-    <description>这里是2015级测控二班
+    <description>这里是2015级测控二班,点击下面的按钮，了解这个主页。
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 30 Oct 2016 16:12:43 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 16:12:43 +0800</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 21:53:31 +0800</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 21:53:31 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
