@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "可视化 补交moodle作业"
+categories: 可视化
+tags: 可视化 作业
+---
+
+* 请同学们及时将之前所有漏交作业上传至[*moodle平台*](http://moodle.cugb.edu.cn/){:target="_blank"}

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "大学物理 11月10日交"
+categories: 大学物理
+tags: 大学物理 作业
+---
+
+* 单元1 震动
